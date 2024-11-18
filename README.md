@@ -47,6 +47,8 @@ Flow of the Function
 ## Getting Started
 0) <a href="https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork</a> the project to your namespace, if you want to make changes or open a <a href="https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests">Pull Request</a>.
 1) <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone</a> the project to your platform if you just want to use the program.
+    - <ins>Example</ins>: Clone the repo e.g. using an SSH-Key:  
+    `git clone git@github.com:SarahZimmermann-Schmutzler/metapdf.git`
 2) Install the dependencies. In this case it's just **PyPDF2**. You can install it across platforms with **Pip**:  
     `pip install PyPDF2`  
 
